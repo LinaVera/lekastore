@@ -26,3 +26,7 @@
     background-image:linear-gradient( #a8cdcf,#ecc9cd) !important;
     
 }
+.mi-pro{
+    height: 16rem !important;
+    object-fit: cover; 
+}
