@@ -27,6 +27,9 @@
     
 }
 .mi-pro{
-    height: 16rem !important;
+    height: 18rem !important;
     object-fit: cover; 
+}
+.card{
+  border: 0px !important;
 }
