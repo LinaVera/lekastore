@@ -1,0 +1,28 @@
+.mi-img {
+  height: 400px;
+  object-fit: cover;
+}
+.mi-carousel {
+  height: 570px;
+  object-fit: cover;
+}
+.img-logo {
+  width: 6rem;
+  height: 4.5rem;
+}
+.img-logoFooter {
+  width: 7rem;
+  height: 6.5rem;
+  padding: 1rem;
+}
+.img-Redes {
+  width: 2rem;
+  height: 2rem;
+}
+.mi-navbar {
+  background-image: linear-gradient(#ecc9cd, #a8cdcf);
+}
+.jumbotron{
+    background-image:linear-gradient( #a8cdcf,#ecc9cd) !important;
+    
+}
