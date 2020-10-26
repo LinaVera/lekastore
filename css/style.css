@@ -28,8 +28,12 @@
 }
 .mi-pro{
     height: 18rem !important;
-    object-fit: cover; 
+    object-fit: cover ; 
 }
 .card{
   border: 0px !important;
+}
+.mi-embed{
+  height: 30rem !important;
+  object-fit: cover !important;
 }
